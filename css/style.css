@@ -1,0 +1,8 @@
+body{
+    margin-top: 100px;
+    transition: .8s;
+}
+body:hover{
+    background-color: rgba(123, 226, 226, 0.384) !important;
+
+}
